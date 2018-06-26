@@ -27,12 +27,12 @@ The keyboard arrow buttons move the player and pressing the Esc button restart t
 ## Play the live desktop version of the game
 The live version of the game is available at https://arpelt.azurewebsites.net/arcade-game/app/.
 
-<a name="#install"></a>
+<a name="install"></a>
 ## Installation
-Go to the folder where you want to store project and use git clone to clone project.
+1. Go to the folder where you want to store project and use git clone to clone project.
 ```
 $ git clone https://github.com/arpelt/arcade-game.git
 ```
 Or press the "Clone or download" button and select "Download ZIP".
 
-
+2. Open `index.html` file.
